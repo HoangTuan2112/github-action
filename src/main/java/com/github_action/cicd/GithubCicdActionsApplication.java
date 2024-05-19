@@ -1,4 +1,4 @@
-package com.javatechie.cicd;
+package com.github_action.cicd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
